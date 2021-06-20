@@ -22,6 +22,4 @@ The system maintains a record of all POSTed values to /metric/<metric_name> for 
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dan Dimond
+Dan Dimond
